@@ -3,7 +3,7 @@
 #include "RF24.h"
 #include "printf.h"
 
-RF24 radio(7, 8); //Arduino UNO
+RF24 radio(9, 10); //Arduino UNO
 // #include <Servo.h>
 
 // #define D10 10
